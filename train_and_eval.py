@@ -346,6 +346,7 @@ if __name__ == '__main__':
         "facebook/esm2_t6_8M_UR50D",
         "facebook/esm2_t12_35M_UR50D",
         "facebook/esm2_t30_150M_UR50D",
+        "facebook/esm2_t33_650M_UR50D",
     ]
 
     parser = argparse.ArgumentParser(description="Training and evaluation script for protein classification models (supports multiple PLMs).")
