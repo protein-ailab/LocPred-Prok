@@ -1,0 +1,8 @@
+{
+    "Extracellular": 0,
+    "CYtoplasmicMembrane": 1,
+    "Cytoplasmic": 2,
+    "Cellwall": 3,
+    "Periplasmic": 4,
+    "OuterMembrane": 5
+}
