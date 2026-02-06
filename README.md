@@ -127,3 +127,14 @@ python predict.py \
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
+### Citation
+```
+@article{zeng2026locpred,
+  title={LocPred-Prok: Prokaryotic protein subcellular localization prediction with a dual-branch architecture and protein language model},
+  author={Zeng, Zilu and Wang, Lei},
+  journal={Journal of Molecular Biology},
+  pages={169660},
+  year={2026},
+  publisher={Elsevier}
+}
+```
